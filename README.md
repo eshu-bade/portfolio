@@ -1,8 +1,5 @@
-Here’s the **README** draft format with the specific sections directly included for your convenience:
 
----
-
-# React Project with Vite
+# Portfolio: React Project with Vite
 
 This project is a **React** application bootstrapped with **Vite**. It offers a fast development environment and optimized build for production.
 
