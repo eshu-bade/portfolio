@@ -81,7 +81,3 @@ To deploy the app:
     ```
 
 Make sure the `deploy` script in your `package.json` is set up to deploy from the `dist` directory. (This project uses `gh-pages` for deployment.)
-
----
-
-This format is ready to be copied into your **README.md** file directly! Let me know if you need further adjustments.
